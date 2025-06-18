@@ -89,7 +89,7 @@ A well-designed booking interface increases conversion, streamlines navigation, 
 
 ---
 
-## Team Roles
+## Project Roles and Responsibilities
 
 | Role                  | Responsibilities                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
